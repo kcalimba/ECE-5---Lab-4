@@ -4,5 +4,9 @@ Kaitlin, Michelle, Mark, and Alex's Lab 4
 
 ![Image](lab4.jpeg)
 
+<video width="360" height="640" controls>
+  <source src="ECE 5 Lab 4 Part 3.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 https://github.com/kcalimba/ECE-5---Lab-4/assets/151685699/de5c4672-2c42-4dcf-b9c9-5f0f9404f280
