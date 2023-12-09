@@ -1,6 +1,6 @@
-# ECE 5 - Lab 4 Challenge 2
+# ECE 5 - Lab 4
 
-Kaitlin, Michelle, Mark, and Alex's Lab 4
+Number 27 - Major SLAY - Kaitlin, Mark, Alex, Michelle
 
 ![Image](lab4.jpeg)
 
