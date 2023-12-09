@@ -40,7 +40,7 @@ PID stands for Proportional-Integral-Derivative. The proportional element rapidl
 
 # Major SLAY PR
 ![Image](MajorSlay.jpeg)
-![Image](Poster.pdf)
+![Image](Poster.jpg)
 
 # Race Day!
 <video width="640" height="360" controls>
@@ -51,6 +51,6 @@ PID stands for Proportional-Integral-Derivative. The proportional element rapidl
 ## Scores
 ![Image](SCORES.png)
 
+# Final Thoughts 
 
-
-![Image]()
+During the last week of testing our robot, we made a few changes to the hardware and software of our robot. We noticed a lot of inconsistencies with the photoresistors so we soldered on the photoresistor circuit as well as added additional lightshields on the side of our robot. On the software side, we tested different PID values and speeds to see how our robot performed under different conditions and how to maximize the potential of our robot. If we were given more time, we would redesign the chassis so it would be more structurally stable and made entirely of plastic versus tape and popsicle sticks. We would also solder the potentiometer circuit onto a PCB board and accurately label each potentiometer. An issue we ran into was inconsistencies with the potentiometer values so we would label which direction increased or decreased its value. Lastly, more cosmetic changes such as dancing RGB LEDS and larger cat ears would have been added to our robot to increase the cute factor. 
