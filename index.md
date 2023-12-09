@@ -1,33 +1,32 @@
 # Mark, Alex, Kaitlin, Michelle
 ![Image](GroupPhoto.jpg)
 
-# Making the robot
+# Making the Robot
 ![Image](Assembly1.jpeg)
 ![Image](Assembly2.jpeg)
 
-# Failed prototype of first chassis
+# Failed Prototype of First Chassis
 <video width="640" height="360" controls>
   <source src="FirstChassi.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-# We all start somewhere
+# We All Start Somewhere
 ![Image](Prototype.jpeg)
 
-# Rocky first steps
+# Rocky First Steps
 <video width="640" height="360" controls>
   <source src="PrototypeVid.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-# Improvements in progress
+# Improvements in Progress
 ![Image](GroupWorkPhoto.jpeg)
 
 # New Robot Redesign
 ![Image](NewChassi.png)
 ![Image](FinalRobot.jpeg)
 ![Image](FinalRobotGlow.jpeg)
-## Robot Diagram
 ![Image](RobotDiagram.png)
 
 # Testing the Waters
