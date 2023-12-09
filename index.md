@@ -23,4 +23,20 @@
 # Improvements in progress
 ![Image](GroupWorkPhoto.jpeg)
 
+# New Robot Redesign
+![Image](NewChassi.png)
+![Image](FinalRobot.jpeg)
+![Image](FinalRobotGlow.jpeg)
+## Robot Diagram
+![Image](RobotDiagram.png)
 
+# Testing the Waters
+<video width="640" height="360" controls>
+  <source src="FinalRobotTest.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
+![Image]()
